@@ -45,10 +45,13 @@ Dans un [communiqué de presse de novembre 2023](https://www.bnf.fr/sites/defaul
 
 **À la source : [le modèle FRBR](http://www.enssib.fr/bibliotheque-numerique/documents/65520-comprendre-le-modele-frbr-et-ses-extensions.pdf), texte fondateur de la transition bibliographique** : ni norme ni format de catalogage, les FRBR publiées par l'IFLA en 1998 sont une [modélisation conceptuelle](https://www.transition-bibliographique.fr/wp-content/uploads/2016/01/support_formation_modelisation_frbr.pdf) de l'information contenue dans les notices bibliographiques, pensée pour l'utilisateur afin de répondre aux enjeux précédemment évoqués. Jusqu'alors, une notice bibliographique correspondait à un gisement d'information décrivant une ressource physique donnée (CD, livre, affiche…) disponible au sein d'une institution. Progressivement se sont également constitués, pour certains systèmes, des fichiers dits "d'autorités" recensant des entités normalisées (par exemple des personnes ou des collectivités) et liés aux notices bibliographiques. C'est cette mise en relation d'entités que développent les FRBR, en déployant en entités distinctes et liées la description d'un seul objet bibliographique. On identifie trois groupes d'entités. D'abord, il y a un regroupement par œuvre des ressources imprimées ou numériques. Ce premier niveau de modélisation (et le plus important) est synthétisé par le sigle OEMI (Œuvre, Expression, Manifestation et Item) : une œuvre donnée (par exemple Notre-Dame de Paris, de Victor Hugo) peut s'exprimer sous différentes formes. 
 
-![alt text](NoticeBib_OEMI1.jpg)   
 <center><I>Passage d'une logique de notices ...</I></center>  
-![alt text](NoticeBib_OEMI2.jpg)  
+
+![alt text](NoticeBib_OEMI1.jpg)   
+
 <center><I>... à une logique d'entités et de relations (catalogage par entités OEMI appliquant les règles RDA-FR</I></center>  
+
+![alt text](NoticeBib_OEMI2.jpg)  
 
 _Source : site de la Transition bibliographique_
 
