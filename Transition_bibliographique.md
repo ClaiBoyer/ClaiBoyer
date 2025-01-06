@@ -15,14 +15,14 @@ Comme le synthétise David Aymonin, la transition bibliographique poursuit deux 
 Vers la constitution d'un web sémantique, rendre visible les données bibliographiques  - approfondir les possibilités de recherche et de lien entre les ressources au sein des catalogues, et favoriser l'évolution des catalogues nationaux vers le web des données liées, améliorer l'expérience usager, utiliser et produire des données et métadonnées interopérables 
 Avec la constitution et l’horizon d’un web de données ou web sémantique, l’enjeu est également de ne pas faire voir uniquement le reflet de la collection physique de la bibliothèque, mais de faire des catalogues des gisements de données complets, permettant la recherche et l’exploitation d’informations bien plus larges que l’étiquetage d’un exemplaire précis. « (…) quand l'usager demande un auteur, un lieu ou un titre, il importe de lui fournir ce qu'il demande, et non plus seulement une liste de notices décrivant des documents au sein de laquelle il découvrira peut-être sa réponse » (Frédérique Joannec-Seta et David Aymonin, p. 06). L'essor d'Internet remodèle en effet largement les pratiques de la recherche documentaire, les moteurs de recherche prenant largement le pas sur les applications dédiées, notamment en s'adaptant à la grande variété des formules de recherche employées. Dans une logique de service et afin de maintenir les catalogues de bibliothèques comme bases de connaissances et non uniquement comme des outils de gestion, il s’agit de pouvoir interroger le catalogue à la manière d’un moteur de recherche, pour accéder plus rapidement à une information précise, qu’elle porte directement sur les collections ou non : 
 	 
-> « - Pour ma thèse en histoire, j’ai besoin de la liste complète des éditions de Voltaire au XVIIIe siècle. 
-- _Il vous suffit de chercher la fiche Voltaire issue du fichier national des entités_" 
-- J’aimerais connaître les principaux auteurs ayant travaillé sur la chimie moléculaire 
-- _Une recherche par sujet me permettra de vous dire quels sont les auteurs les plus souvent associés à ce sujet_.
-- Pour mon exposé sur Darwin, commençons par une recherche Google…
-- _Tiens, il y a des documents sur le sujet à la bibliothèque. C’est donc à cela qu’elle sert ?_ 
-- Ce livre a l’air intéressant, qu’en pense Google ? 
-- _Il est dans la bibliothèque près de chez moi !!_ »
+> « - Pour ma thèse en histoire, j’ai besoin de la liste complète des éditions de Voltaire au XVIIIe siècle.  
+\- _Il vous suffit de chercher la fiche Voltaire issue du fichier national des entités_"  
+\- J’aimerais connaître les principaux auteurs ayant travaillé sur la chimie moléculaire   
+\- _Une recherche par sujet me permettra de vous dire quels sont les auteurs les plus souvent associés à ce sujet_.  
+\- Pour mon exposé sur Darwin, commençons par une recherche Google…   
+\- _Tiens, il y a des documents sur le sujet à la bibliothèque. C’est donc à cela qu’elle sert ?_   
+\- Ce livre a l’air intéressant, qu’en pense Google ?   
+\- _Il est dans la bibliothèque près de chez moi !!_ »
 
 = permettre des recherche plus intuitives, importance de l'interopérabilité des données 
 
