@@ -79,6 +79,9 @@ En 2009 puis 2010, deux n
 
 Outre l'Abes et la BnF (mandatée en sa qualité d'Agence bibliographique nationale), qui supervisent le projet, les acteurs de la transition bibliographique sont nombreux, regroupant tant des professionnels de bibliothèques et de centres d'archives que des éditeurs d'applications et de logiciels professionnels.
 
+![alt text](OrganigrammTB.jpg)
+_Source : Arabesques 2017, p.07_
+
 ### I.2.3. « MARC must die » : les métadonnées de l’avenir  
 
 Outre le cadre de la description bibliographique (FRBR et IFLA-LRM) et les normes de catalogage (RDA-FR), le programme de la transition bibliographique invite également à réinterroger le format dans lequel les données sont gérées (Unimarc, Intermarc, MARC21). La visibilité des données sur le web dépend largement des formats MARC, encore peu compréhensibles par les machines et donc peu compétitifs dans le web de données. 
