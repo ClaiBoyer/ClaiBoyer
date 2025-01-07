@@ -23,13 +23,12 @@ Comme le synthétise David Aymonin, la transition bibliographique poursuit deux 
 
 En effet, les catalogues brassent une somme extrêmement importantes de "métadonnées", qui sont en réalité des données  parfois recherchées pour elles-mêmes, mais actuellement sous-exploitées car mal liées entre elles. En ce sens, la transition bibliographique s'inscrit très nettement dans la constitution et l'horizon d'un **web sémantique**, mentionné pour la première fois en 2001 par Tim Berners-Lee, James Hendler et Ora Lassila dans [un article fondateur](https://www.lassila.org/publications/2001/SciAm.pdf) et qui « repose sur l'établissement de **liens directs et signifiants**, c'est-à-dire interprétables par une machine, de (méta)donnée à (méta)donnée au sein d'un "**web de données**" » (Philippe le Pape, Arabesques 2017, p.05). 
 
-<div align="center"> 
-	
-![alt text](Berners-Lee.jpg)
+---
 
-</div>
-<p align="center"><I><B>Tim Berners-Lee</B>, Source : </I><a href="https://www.flickr.com/photos/itupictures/16662336315">Flickr</a></p>  
+<div align="center"><img src="Berners-Lee.jpg" width="500px"/></div>
+<p align="center"><I><B>Tim Berners-Lee</B>, Source : </I><a href="https://www.flickr.com/photos/itupictures/16662336315">Flickr</a></p>
 
+---
 	
 ## I.2. Les défis de la mise en œuvre technique en France 
 	
@@ -49,18 +48,13 @@ Ni norme, ni format de catalogage, les FRBR publiées par l'IFLA en 1998 sont un
 
 ---
 
-<p align="center"><I><B>Passage d'une logique de notices...</B></I></p>  
-
-
-![alt text](NoticeBib_OEMI1.jpg)   
-
-
-<p align="center"><I><B>... à une logique d'entités et de relations (catalogage par entités OEMI appliquant les règles RDA-FR)</B></I></p>   
-
-
-![alt text](NoticeBib_OEMI2.jpg)  
-
-_Source : site de la Transition bibliographique_
+<p align="center"><I><B>Passage d'une logique de notices... : </B></I></p>  
+<div align="center"><img src="NoticeBib_OEMI1.jpg" width="900px"/></div>  
+<hr>
+<p align="center"><I><B>... à une logique d'entités et de relations (catalogage par entités OEMI appliquant les règles RDA-FR) : </B></I></p>   
+<div align="center"><img src="NoticeBib_OEMI2.jpg" width="900px"/></div>  
+<br>
+<p align="center"><I> Source : site de la <a href="https://www.transition-bibliographique.fr/enjeux/definition-rda/">Transition bibliographique</a></I></p> 
 
 ---
 
@@ -70,12 +64,12 @@ Les FRBR se cantonnent aux seules notices bibliographiques. En 1999 puis 2005, d
 
 Enfin, FRBR, FRAD et FRSAD ont fusionné en 2017 pour former le modèle unique [**IFLA-LRM**](https://www.ifla.org/files/assets/cataloguing/frbr-lrm/ifla-lrm-august-2017_rev201712.pdf) (_IFLA Library Reference Model_) sur lequel s'adosse le programme actuel de la Transition bibliographique en s'inscrivant plus directement dans une perspective de web de données. Il regroupe les trois niveaux d'entités (organisées en classes et sous-classes) précédemment évoqués : celui de l'œuvre ("groupe 1", les OEMI de FRBR), celui des entités responsables du contenu ("groupe 2" : Personne, Famille, Collectivité, liées principalement à FRAD) et enfin celui des entités dites Sujet ("groupe 3": Concept, Objet, Évènement et Lieu), ainsi que l'illustre le schéma suivant : 
 
-<div align="center"> 
-	
-![alt text](IFLA-LRM.jpeg)
+---
 
-</div>
+<div align="center"><img src="IFLA-LRM.jpeg" width="800px"/></div>
 <p align="center"><I><B>Vue d'ensemble des relations dans le modèle IFLA-LRM</B>, Source : </I><a href="https://www.ifla.org/files/assets/cataloguing/frbr-lrm/ifla-lrm-august-2017_rev201712.pdf">IFLA Library Reference Model,</a> IFLA, 2017, p.86</p> 
+
+---
 
 Son architecture globale est censé répondre à cinq type d'opérations : **explorer, trouver, sélectionner, identifier, obtenir**, et correspond à un formalisme d'**ontologie**. Si IFLA-LRM répond aux deux objectifs de service à l'utilisateur et de visibilité des données, ce n'est cependant qu'un modèle conceptuel, général, et non pas une application. 
 
@@ -92,8 +86,12 @@ De nouvelles règles ont donc vocation à progressivement remplacer les [normes 
 
 Outre l'Abes et la BnF (mandatée en sa qualité d'Agence bibliographique nationale), qui supervisent le projet, les acteurs de la transition bibliographique sont nombreux, regroupant tant des professionnels de bibliothèques et de centres d'archives que des éditeurs d'applications et de logiciels professionnels.
 
-![alt text](OrganigrammeTB.jpg)
-_Source : Arabesques 2017, p.07_
+---
+
+<div align="center"><img src="OrganigrammeTB.jpg" width="500px"/></div>
+<p align="center"><I><B>Organigramme du programme Transition bibliographique</B>, Source : Arabesques n°87, 2017, p.07</I></p> 
+
+---
 
 ### I.2.3. « MARC must die » : les métadonnées de l’avenir  
 
