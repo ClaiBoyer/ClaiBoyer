@@ -30,16 +30,9 @@ En effet, les catalogues brassent une somme extrêmement importantes de "métado
 <p align="center"><I><B>Tim Berners-Lee</B>, Source : </I><a href="https://www.flickr.com/photos/itupictures/16662336315">Flickr</a></p>  
 
 	
-
-= permettre des recherche plus intuitives, importance de l'interopérabilité des données 
-
-« Dans le domaine du catalogage, le défi fondamental auquel les bibliothèques sont confrontées est l'exposition et la visibilité de leurs collections et de leurs métadonnées sur le web » peut-on lire dans le [communiqué de 2014](http://transition-bibliographique.fr/wp-content/uploads/2015/05/communique201411_transition_bibliographique.pdf) annonçant la transition bibliographique. Cette série de dialogues fictifs, issue d’une [infographie](https://www.transition-bibliographique.fr/wp-content/uploads/2022/10/infographie-TB.pdf) destinée à vulgariser les enjeux de la transition bibliographique auprès du grand public, démontre la multitude des enjeux liés à la transition bibliographique, relevant à la fois d’une logique de visibilité et d’exposition des données sur le web, mais aussi et surtout d’une restructuration globale des informations issues des catalogues. « La transition bibliographique doit ainsi concourir à améliorer notre compréhension de la construction/déconstruction des dispositifs de recherche d’information » (Grégory Miura), dans la continuité d'un mouvement naturel visant à adapter les catalogues aux évolutions des besoins des usagers et des technologies.
-
---Fiche pratique Enssib : Dans le cadre d'un web de données, les bibliothèques ont un rôle central à jouer dans la délivrance des identifiants pérennes et la constitution de référentiels d'autorités (auteurs, œuvres, matières, lieux, évènements) qui permettent la mise en relation de jeux de données de provenance variées. Il faut ainsi permettre une **interopérabilité des données** indispensable à la réalisation d'un web aux contenus véritablement sémantisés, rendus fouillables et exploitables à grande échelle par les moteurs de recherche. 
-		 
 ## I.2. Les défis de la mise en œuvre technique en France 
 	
-Que l'objectif final soit la visibilité ou le service aux usagers (l'un n'excluant pas l'autre), l'intégration des catalogues de bibliothèque au web de données nécessite de nouveaux cadres conceptuels (FRBR, IFLA- tout autant que de nouveaux protocoles et de nouvelles opérations (production de métadonnées, utilisation de référentiels d'autorités). Définition et adoption de ces nouvelles manières de faire engendrent par voie de conséquence des mutations techniques, les systèmes informatiques de gestion des bibliothèques (SIGB) devant adapter leurs structures de bases de données pour les rendre compatibles. 
+Que l'objectif final soit la visibilité ou le service aux usagers (l'un n'excluant pas l'autre), l'intégration des catalogues de bibliothèque au web de données nécessite de nouveaux cadres conceptuels (FRBR, IFLA-LRM) tout autant que de nouveaux protocoles et de nouvelles opérations (production de métadonnées, utilisation de référentiels d'autorités). Définition et adoption de ces nouvelles manières de faire engendrent par voie de conséquence des mutations techniques, les systèmes informatiques de gestion des bibliothèques (SIGB) devant adapter leurs structures de bases de données pour les rendre compatibles. 
 
 ### I.2.1. FRBR, IFLA-LRM, RDA-FR… au cœur de la machine 
 
@@ -65,20 +58,16 @@ Dans un [communiqué de presse de novembre 2023](https://www.bnf.fr/sites/defaul
 
 _Source : site de la Transition bibliographique_
 
-Les FRBR se cantonnent aux seules notices bibliographiques. En 1999 puis 2005, deux groupes d'experts sont constitués (FRANAR, _Functional Requirements and Numbering of Authority Records_ puis FRSAR, _Functional Requirements for Subject Authority Records_) pour étendre le travail de modélisation : 
-- <ins>Aux contenus des notices d'autorités</ins> : c'est le modèle FRAD (_Functional Rquirements for Authority Data_) concentré sur les entités Personne, Collectivité, Famille et Oeuvre et aux relations entre données bibliographique et fichier d'autorité matière
-- Aux 
 
 
+<div align="center"> 
+	
+![alt text](IFLA-LRM.jpeg)
 
-« (…) si le catalogue d'une bibliothèque constituait auparavant une **base de notices attachées à des "documents", il se compose désormais d'un ensemble hétérogène de "données" prises dans des relatons signifiantes conceptualisées au moyen de la syntaxe RDF (…). **Plus qu'une simple description de documents isolés, le catalogage devient une opération de conceptualisation de liens** : les bibliothèques engagées dans la Transition bibliographique avancent de fait vers cet objectif de "sémantisation" des données de leurs catalogues. » ([Fiche pratique de l'Enssib](https://www.enssib.fr/bibliotheque-numerique/documents/67445-comprendre-les-enjeux-de-la-transition-bibliographique.pdf), Gabriel Raupp, 2016) 
+</div>
+<p align="center"><I><B>Vue d'ensemble des relations dans le modèle IFLA-LRM</B>, Source : </I><a href="https://www.ifla.org/files/assets/cataloguing/frbr-lrm/ifla-lrm-august-2017_rev201712.pdf">IFLA Library Reference Model,</a> IFLA, 2017, p.86</p> 
 
-En 2009 puis 2010, deux n
-
-[IFLA-LRM](http://library.ifla.org/1763/7/078-riva-fr.pdf) 
-
-
-**"L'adopter, c'est l'adapter", de RDA à [RDA-FR](https://www.transition-bibliographique.fr/enjeux/definition-rda/)** : De nouvelles règles ont donc vocation à progressivement remplacer les [normes de catalogage Afnor](https://www.bnf.fr/fr/normes-afnor-de-catalogage) en cours, pour répondre au modèle IFLA-LRM, augmentation de FRBR. En effet, puisqu'il ne s'agit plus de créer des liens entre des pages mais de « **lier des données structurées**, si possibles ouvertes et identifiées de manière pérenne » (selon la formulation de la fiche pratique de l'Enssib), il faut disposer d'une syntaxe normalisée : RDA, _Ressource Description Framework_
+**"L'adopter, c'est l'adapter", de RDA à [RDA-FR](https://www.transition-bibliographique.fr/enjeux/definition-rda/)** : 
 
 **Un temps long nécessaire** : État intermédiaire entre deux paradigmes par définition, la « transition » bibliographique s'inscrit nécessairement dans le temps long, l'un de ses piliers fondamentaux étant l'idée de progressivité. La norme RDA-FR est rédigée et publiée chapitre après chapitre, au fur et à mesure de sa validation par le groupe AFNOR CN46-9, et doit être intégrée dans les formats de catalogage existants, nécessitant de nécessaires adaptations techniques ("les outils doivent tenir compte aussi bien des évolutions normatives que du changement de paradigme dans la production et la gestion des données"). Il s'agit aussi de former les catalogueurs au nouveau code, et de sensibiliser public et responsables d'établissements aux impacts de la transition bibliographiques et aux enjeux stratégiques, alors que le terme d'open data commence à s'imposer dans le débat courant. 
 
