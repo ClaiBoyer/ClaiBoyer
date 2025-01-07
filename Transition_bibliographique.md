@@ -18,7 +18,18 @@
   « - Pour mon exposé sur Darwin, commençons par une recherche Google…  
     - _Tiens, il y a des documents sur le sujet à la bibliothèque. C’est donc à cela qu’elle sert ?_ »  
   « - Ce livre a l’air intéressant, qu’en pense Google ?   
-    - Il est dans la bibliothèque près de chez moi !! » 
+    - Il est dans la bibliothèque près de chez moi !! »
+
+En effet, les catalogues brassent une somme extrêmement importantes de "métadonnées", qui sont en réalité des données  parfois recherchées pour elles-mêmes, mais actuellement sous-exploitées car mal liées entre elles. En ce sens, la transition bibliographique s'inscrit très nettement dans la constitution et l'horizon d'un **web sémantique**, mentionné pour la première fois en 2001 par Tim Berners-Lee, James Hendler et Ora Lassila dans [un article fondateur](https://www.lassila.org/publications/2001/SciAm.pdf) et qui « repose sur l'établissement de **liens directs et signifiants**, c'est-à-dire interprétables par une machine, de (méta)donnée à (méta)donnée au sein d'un "**web de données**" » (Philippe le Pape, Arabesques 2017, p.05). 
+
+<div align="center"> 
+	
+![alt text](Berners-Lee.jpg)
+
+</div>
+<p align="center"><I><B>Tim Berners-Lee</B>, Source : </I><a href="https://www.flickr.com/photos/itupictures/16662336315">Flickr</a></p>  
+
+	
 
 = permettre des recherche plus intuitives, importance de l'interopérabilité des données 
 
