@@ -65,6 +65,9 @@ Dans un [communiqué de presse de novembre 2023](https://www.bnf.fr/sites/defaul
 
 _Source : site de la Transition bibliographique_
 
+Les FRBR se cantonnent aux seules notices bibliographiques. En 1999 puis 2005, deux groupes d'experts sont constitués (FRANAR, _Functional Requirements and Numbering of Authority Records_ puis FRSAR, _Functional Requirements for Subject Authority Records_) pour étendre le travail de modélisation : 
+- <ins>Aux contenus des notices d'autorités</ins> : c'est le modèle FRAD (_Functional Rquirements for Authority Data_) concentré sur les entités Personne, Collectivité, Famille et Oeuvre et aux relations entre données bibliographique et fichier d'autorité matière
+- Aux 
 
 
 
