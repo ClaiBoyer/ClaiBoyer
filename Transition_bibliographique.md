@@ -184,21 +184,21 @@ Voici ce qu'on peut lire sur le site de la BnF
 
 [^3]: Et pour que les bibliothèques puissent continuer d'assurer leur mission première, à savoir garantir un libre accès aux savoirs et à l'information, sur place ou à distance (Christian JACOB, _Qu'est-ce qu'un lieu de savoir ?_, Open Edition Press, 2014)
 
-[^3]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ [En ligne], n°87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
+[^4]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ [En ligne], n°87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
 
-[^4]: Tim BERNERS-LEE, James HENDLER, Ora LASSILA, « The Semantic Web. A New Form of Web Content That Is Meaningful to Computers Will Unleash a Revolution of New Possibilities ». _Scientific American_, 284, 2001, p. 1-5
+[^5]: Tim BERNERS-LEE, James HENDLER, Ora LASSILA, « The Semantic Web. A New Form of Web Content That Is Meaningful to Computers Will Unleash a Revolution of New Possibilities ». _Scientific American_, 284, 2001, p. 1-5
 
-[^5]: Philippe LE PAPE, « Une transition chasse l’autre », _Arabesques_ [En ligne], n°87 | 2017, mis en ligne le 17 juin 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=218)
+[^6]: Philippe LE PAPE, « Une transition chasse l’autre », _Arabesques_ [En ligne], n°87 | 2017, mis en ligne le 17 juin 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=218)
 
-[^6]: Gabriel RAUPP, [Fiche pratique de l'Enssib](https://www.enssib.fr/bibliotheque-numerique/documents/67445-comprendre-les-enjeux-de-la-transition-bibliographique.pdf), 2016
+[^7]: Gabriel RAUPP, [Fiche pratique de l'Enssib](https://www.enssib.fr/bibliotheque-numerique/documents/67445-comprendre-les-enjeux-de-la-transition-bibliographique.pdf), 2016
 
-[^7]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ [En ligne], n°87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
+[^8]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ [En ligne], n°87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
 
-[^8]: Roy TENNANT, « MARC Must Die », _Library Journal - New York_, 127(17), 2002, p. 26-27
+[^9]: Roy TENNANT, « MARC Must Die », _Library Journal - New York_, 127(17), 2002, p. 26-27
 
-[^9]: « the reality is that the [MARC] format (…) has been primarily intended for the exchange and display of records and the data was, to a large degree, structured for human interpretation and not for automated processing and retrieval as it is required today », Seungmin LEE et Elin K. JACOB, « An Integrated Approach to Metadata Interoperability », _Library Resources & Technical Services_, 55(1), 2011, p.17-32
+[^10]: « the reality is that the [MARC] format (…) has been primarily intended for the exchange and display of records and the data was, to a large degree, structured for human interpretation and not for automated processing and retrieval as it is required today », Seungmin LEE et Elin K. JACOB, « An Integrated Approach to Metadata Interoperability », _Library Resources & Technical Services_, 55(1), 2011, p.17-32
 
-[^10]: Joffrey DECOURSELLE, _Migration et enrichissement sémantique d'entités culturelles_, Université Claude Bernard Lyon 1, 2018, disponible [ici](https://www.researchgate.net/publication/328955171_Migration_et_enrichissement_semantique_d'entites_culturelles)
+[^11]: Joffrey DECOURSELLE, _Migration et enrichissement sémantique d'entités culturelles_, Université Claude Bernard Lyon 1, 2018, disponible [ici](https://www.researchgate.net/publication/328955171_Migration_et_enrichissement_semantique_d'entites_culturelles)
 
 
 
