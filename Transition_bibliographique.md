@@ -111,6 +111,21 @@ Les acteurs de la transition bibliographique sont nombreux, regroupant tant des 
 <p align="center"><I><B>Organigramme du programme Transition bibliographique</B>, Source : Arabesques n°87, 2017, p.07</I></p> 
 
 ---
+Sous l'égide de la commission « Identification et description » de l'AFNOR, le groupe « <ins><B>Normalisation pour l'adoption de RDA en France</B></ins> » a pour mission principale la rédaction et la publication de RDA-FR, en s'appuyant autant que possible sur RDA afin de rester proche de la communauté internationale des bibliothèques. Ainsi, l'équipe contribue parallèlement aux propositions portées par le groupe d'intérêt européen sur RDA **EURIG**, au **JCS** (le Comité conjoint de pilotage où siègent notamment la Bibliothèque du Congrès, la _British Library_, la Bibliothèque nationale d'Australie et la _Deutsche Nationalbibliothek_). 
+Le principal enjeu est de réussir à conserver une **cohérence tout au long du code** (notamment en anticipant vers les parties non encore éditées) alors que la rédaction s'échelonne sur plusieurs années et qu'RDA est régulièrement mis à jour. La mise en conformité avec IFLA-LRM notamment obligeait à revenir en amont pour corriger les passages du code déjà édités, tout en anticipant le changement de vision des parties à venir. 
+Par ailleurs, en amont de la publication, le groupe propose également des évolutions intermédiaires pour répondre à des besoins plus urgents et concrets et travaille en étroite collaboration avec le groupe **Formation** pour rédiger des documents pédagogiques, notamment en participant au [Guide pratique du catalogueur de la BnF](https://editions.bnf.fr/guide-pratique-du-catalogueur) et au [Guide méthodologique du Sudoc](https://documentation.abes.fr/sudoc/).
+
+En effet, le groupe [**Formation**](https://www.transition-bibliographique.fr/se-former/modalites-pratiques/) mène en parallèle un important chantier de sensibilisation aux enjeux de la transition bibliographique et des évolutions de catalogage : il s'agit à la fois d'expliciter les tenants et aboutissants du programme, et d'accompagner la nécessaire montée en compétence des équipes-métiers de catalogueurs, la transition bibliographique remodelant à la fois la conception même du catalogage et les pratiques et techniques concrètes d'enregistrement de l'information bibliographique. 
+Ce travail est mené de pair avec trois importants structures du monde de la documentation : le [**CRFCB**](https://www.crfcb.fr/#/)(Centre Régional de Formation aux Carrières des Bibliothèques), l'[**ENSSIB**](https://www.enssib.fr/)(l'Ecole Nationale Supérieures des Sciences de l'Information et des Bibliothèques) et le [**CNFPT**](https://www.cnfpt.fr/nous-connaitre/nos-missions/champs-daction/national) (Centre National de la Fonction Publique Territoriale). 
+
+---
+
+<div align="center"><img src="CNFPT-Formation.jpg" width="800px"/></div>
+<p align="center"><I><B>Extrait d'un support de sensibilisation du CNFPT</B>, Source : </I><a href="https://www.cnfpt.fr/sites/default/files/transition_bibliographique-tb_def_logo_couleur_vf.pdf">site du CNFPT</a></p>
+
+---
+
+
 
 ### I.2.3. « MARC must die » : les métadonnées de l’avenir  
 
