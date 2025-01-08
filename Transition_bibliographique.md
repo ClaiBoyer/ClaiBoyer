@@ -103,7 +103,7 @@ Au cœur de la transition bibliographique, le code RDA-FR doit donc permettre, p
 
 ### I.2.2. L’infrastructure institutionnelle 
 
-Outre l'Abes et la BnF (mandatée en sa qualité d'Agence bibliographique nationale), qui supervisent le projet, les acteurs de la transition bibliographique sont nombreux, regroupant tant des professionnels de bibliothèques et de centres d'archives que des éditeurs d'applications et de logiciels professionnels.
+Les acteurs de la transition bibliographique sont nombreux, regroupant tant des professionnels de bibliothèques et de centres d'archives, que des éditeurs d'applications et de logiciels professionnels. Le programme global est défini par le **Comité stratégique des bibliothèques**, rassemblant l'Abes et la BnF (les directeurs des deux agences bibliographiques nationales pilotant le projet), ainsi que des représentants de leurs deux ministères de tutelle, le **Ministère de la culture et de la communication** et le **Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche**. Le projet est ensuite coordonné collégialement entre trois groupes de travail.
 
 ---
 
