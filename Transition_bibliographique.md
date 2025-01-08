@@ -124,8 +124,7 @@ Ce travail est mené de pair avec trois importants structures du monde de la doc
 <p align="center"><I><B>Extrait d'un support de sensibilisation du CNFPT</B>, Source : </I><a href="https://www.cnfpt.fr/sites/default/files/transition_bibliographique-tb_def_logo_couleur_vf.pdf">site du CNFPT</a></p>
 
 ---
-
-
+Enfin, en concertation avec les développeurs, le groupe <ins><B>Systèmes et données</B></ins> est chargé de la mise en place des outils professionnels permettant le passage à RDA, afin que puisse s'opérer la migration des données des catalogues actuels vers les catalogues respectant le nouveau cadre conceptuel de structuration de l'information bibliographique, l'enjeu étant à terme de pouvoir produire des données nativement « LRMisées ». Il s'agit de répondre sous l'angle informatique aux nombreuses questions pratiques que soulève la transition bibliographique : comment gérer la création des nouvelles entités et l'imbrication des différentes relations ? Il faut pouvoir faire évoluer les SIGB (Système Informatisé de Gestion des Bibliothèques) mais également les formats de données. 
 
 ### I.2.3. « MARC must die » : les métadonnées de l’avenir  
 
@@ -142,6 +141,8 @@ Outre le cadre de la description bibliographique (FRBR et IFLA-LRM) et les norme
 > « Sous l’impulsion du Ministère de l’Enseignement supérieur et de la recherche et du Ministère de la Culture, [le Programme national de la Transition bibliographique] vise à faire évoluer les formats de production et de diffusion des données bibliographiques vers un modèle entités/relations favorisant la découvrabilité des contenus scientifiques et culturels français sur le web, leur bonne réutilisation par les intelligences artificielles et leur contribution à l’économie de la connaissance, au niveau national et européen »
 
 Voici ce qu'on peut lire sur le site de la BnF
+
+
 	 
 ## II.1. La transition bibliographique et les données FAIR 
 ## II.2. La transition bibliographique, accélérateur ou frein à la science ouverte ? 
