@@ -73,16 +73,18 @@ Les FRBR se cantonnent aux seules notices bibliographiques. En 1999 puis 2005, d
 - …<ins>Aux contenus des notices d'autorités</ins>, c'est-à-dire aux différents agents qui sont liés à une œuvre (par des opérations diverses : création, transformation, publication, possession…)  : c'est le modèle FRAD (_Functional Requirements for Authority Data_), [traduit en français par la BnF](https://multimedia-ext.bnf.fr/pdf/frad_rapport_final.pdf), concentré sur les relations entre les entités Personne, Collectivité, Famille et Oeuvre ;
 - …<ins>Aux relations entre données bibliographiques et fichier d'autorité matière</ins>, dans l'objectif de préciser le contenu de l'œuvre elle-même. Le modèle [FRSAD](https://multimedia-ext.bnf.fr/pdf/frsad_rapport_final.pdf) (_Functional Requirements for Subject Authority Data_) vient ainsi analyser les liens entre une Œuvre donnée et les sujets qu'elle traite, ainsi que les informations contenues dans les systèmes d'indexation (qu'il s'agisse des concepts eux-mêmes que des appellations qui s'y réfèrent). 
 
-Enfin, FRBR, FRAD et FRSAD ont fusionné en 2017 pour former le modèle unique [**IFLA-LRM**](https://www.ifla.org/files/assets/cataloguing/frbr-lrm/ifla-lrm-august-2017_rev201712.pdf) (_IFLA Library Reference Model_) sur lequel s'adosse le programme actuel de la Transition bibliographique en s'inscrivant plus directement dans une perspective de web de données. Il regroupe les trois niveaux d'entités (organisées en classes et sous-classes) précédemment évoqués : celui de l'œuvre ("groupe 1", très proche des OEMI de FRBR), celui des entités responsables du contenu ("groupe 2" : Personne, Famille, Collectivité, liées principalement à FRAD) et enfin celui des entités dites Sujet ("groupe 3": Concept, Objet, Évènement et Lieu), ainsi que l'illustre le schéma suivant : 
+Enfin, FRBR, FRAD et FRSAD ont fusionné en 2017 pour former le modèle unique [**IFLA-LRM**](https://www.ifla.org/files/assets/cataloguing/frbr-lrm/ifla-lrm-august-2017_rev201712.pdf) (_IFLA Library Reference Model_) sur lequel s'adosse le programme actuel de la Transition bibliographique en s'inscrivant plus directement dans une perspective de web de données. Il regroupe les trois niveaux d'entités (organisées en classes et sous-classes) précédemment évoqués : celui de l'œuvre ("groupe 1", très proche des OEMI de FRBR), celui des entités responsables du contenu ("groupe 2" : Personne, Famille, Collectivité, liées principalement à FRAD) et enfin celui des entités dites Sujet ("groupe 3": Concept, Objet, Évènement et Lieu), ainsi que l'illustrent les schémas suivants : 
 
 ---
 
-<div align="center"><img src="IFLA-LRM.jpeg" width="800px"/></div>
+<div align="center"><img src="DescriptionRDA.jpg" width="500px"/></div>
+<p align="center"><I><B>Représentation simplifiée des relations dans IFLA-LRM</B>, Source : </I><a href="https://code.rdafr.fr/wp-content/uploads/2023/06/modele-de-description-rda-fr.png">site RDA-FR</a> 
+
+---
+<div align="center"><img src="IFLA-LRM.jpeg" width="700px"/></div>
 <p align="center"><I><B>Vue d'ensemble des relations dans le modèle IFLA-LRM</B>, Source : </I><a href="https://www.ifla.org/files/assets/cataloguing/frbr-lrm/ifla-lrm-august-2017_rev201712.pdf">IFLA Library Reference Model,</a> IFLA, 2017, p.86</p> 
 
 ---
-
-![alt text](DescriptionRDA.jpg)
 
 Son architecture globale est censé répondre à cinq type d'opérations : **explorer, trouver, sélectionner, identifier, obtenir**, et correspond à un formalisme d'**ontologie**. Si IFLA-LRM répond aux deux objectifs de service à l'utilisateur et de visibilité des données, ce n'est cependant qu'un modèle conceptuel, général, et non pas une application. 
 
