@@ -143,7 +143,14 @@ Plusieurs expérimentations ont déjà été menées :
 - Dès 2009 débute une réflexion initiée par l'IFLA, puis poursuivie par RDA pour créer des espaces de noms permettant de déclarer les entités et relations des FRBR sous la forme d'une ontologie utilisable dans le web sémantique 
 - Le projet [DOREMUS](https://www.doremus.org/) est mis en place conjointement par une série d'institutions (dont la Cité de la Musique et la Philharmonie de Paris) pour rendre compte des œuvres musicales et de leurs différentes expressions et manifestations 
 - En 2012, la Bibliothèque du Congrès lance [**BIBFRAME**](https://publications-prairial.fr/arabesques/index.php?id=639) (_Bibliographic Framework Initiative_), initialement pour remplacer MARC 21. Le projet LD4P (_Linked Data For Production 4_) tente depuis de compléter et de tester ce nouveau format, censé permettre la pleine application de RDA grâce à la création des liens entre les données. 
-En France (où dominent les formats Unimarc et Intermarc), la BnF, ayant démarré en 2017 la refonte de ses outils de catalogage a lancé une nouvelle version d'**Intermarc** pour produire nativement des données LRMisées. Se pose également la question d'un nouveau modèle fondé sur RDF (notamment à partir du service data.bnf.fr). 
+En France (où dominent les formats Unimarc et Intermarc), la BnF, ayant démarré en 2017 la refonte de ses outils de catalogage a lancé une nouvelle version d'**Intermarc** pour produire nativement des données LRMisées. Se pose également la question d'un nouveau modèle fondé sur RDF (notamment à partir du service data.bnf.fr).
+
+---
+
+<div align="center"><img src="CompatbiliteStandard.jpg" width="700px"/></div>
+<p align="center"><I><B>Etat des compatibilités entre les standards bibliographiques, dernière mise à jour en septembre 2024</B>, Source : </I><a href="https://code.rdafr.fr/schemas/schema-etat-de-compatibilite-entre-les-standards-bibliographiques/">site RDA-FR</a></p>
+
+---
 				 
 ## I.3. Vision aérienne 
 ### I.3.1. Quel bilan en 2024 ?
