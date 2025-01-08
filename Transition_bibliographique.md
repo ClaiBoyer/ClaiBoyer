@@ -25,7 +25,7 @@ et vue d'un meuble à fiches d'une bibliothèque par
 
 ### Pourquoi la transition bibliographique ?
 Comme le synthétise David Aymonin, la transition bibliographique poursuit deux objectifs complémentaires. Le premier répond à une logique de service : il s'agit de **restructurer la donnée bibliographique pour la rendre mieux exploitable aux regards des demandes des utilisateurs**, qu'ils soient étudiants, chercheurs, ou lecteurs des bibliothèques municipales. En effet, l'essor d'Internet a largement remodelé les pratiques de la recherche documentaire ; les moteurs de recherche sont d'une utilisation très intuitive : capables d'interpréter des requêtes aux formulations très variées, ils ont en conséquence pris largement le pas sur les applications dédiées. Dès lors, afin que les catalogues de bibliothèques demeurent des bases de connaissances[^3] et ne soient pas réduits à de simples outils de localisation des ressources, il faudrait pouvoir **interroger le catalogue** à la manière d'un moteur de recherche, pour accéder plus rapidement à une information précise, qu'elle porte directement sur les collections d'une bibliothèque ou non : « (…) quand l'usager demande un auteur, un lieu ou un titre, il importe de lui fournir ce qu'il demande, et non plus seulement une liste de notices décrivant des documents au sein de laquelle il découvrira peut-être sa réponse » (Frédérique Joannec-Seta et David Aymonin[^4]).
-Autrement dit, le catalogue ne doit plus se concevoir comme le reflet de la collection physique d'une institution[^5], mais comme un gisement de données en propre, permettant la recherche et l'exploitation d'informations au-delà de celles servant à l'étiquetage d'un exemplaire précis. La variété des usages que l'on pourrait en faire est illustrée par une série de dialogues fictifs, issus d'une [infographie](https://www.transition-bibliographique.fr/wp-content/uploads/2022/10/infographie-TB.pdf) destinée à vulgariser les enjeux de la transition bibliographique auprès du grand public : 
+Autrement dit, le catalogue ne doit plus se concevoir comme le reflet de la collection physique d'une institution[^5], mais comme un gisement de données en propre, permettant la recherche et l'exploitation d'informations au-delà de celles servant à l'étiquetage d'un exemplaire précis. La variété des usages que l'on pourrait en faire peut être illustrée par cette série de dialogues fictifs, issus d'une [infographie](https://www.transition-bibliographique.fr/wp-content/uploads/2022/10/infographie-TB.pdf) destinée à vulgariser les enjeux de la transition bibliographique auprès du grand public : 
 
 > « - Pour ma thèse en histoire, j’ai besoin de la liste complète des éditions de Voltaire au XVIIIe siècle.  
     - _Il vous suffit de chercher la fiche Voltaire issue du fichier national des entités._ »  
@@ -44,6 +44,7 @@ En effet, les catalogues brassent une somme extrêmement importantes de "métado
 <p align="center"><I><B>Tim Berners-Lee</B>, Source : </I><a href="https://www.flickr.com/photos/itupictures/16662336315">Flickr</a></p>
 
 ---
+
 	
 ## I.2. Les défis de la mise en œuvre technique en France 
 	
