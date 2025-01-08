@@ -82,6 +82,8 @@ Enfin, FRBR, FRAD et FRSAD ont fusionné en 2017 pour former le modèle unique [
 
 ---
 
+![alt text](DescriptionRDA.jpg)
+
 Son architecture globale est censé répondre à cinq type d'opérations : **explorer, trouver, sélectionner, identifier, obtenir**, et correspond à un formalisme d'**ontologie**. Si IFLA-LRM répond aux deux objectifs de service à l'utilisateur et de visibilité des données, ce n'est cependant qu'un modèle conceptuel, général, et non pas une application. 
 
 
@@ -147,7 +149,7 @@ En France (où dominent les formats Unimarc et Intermarc), la BnF, ayant démarr
 
 ---
 
-<div align="center"><img src="CompatbiliteStandard.jpg" width="700px"/></div>
+<div align="center"><img src="CompatibiliteStandard.jpg" width="700px"/></div>
 <p align="center"><I><B>Etat des compatibilités entre les standards bibliographiques, dernière mise à jour en septembre 2024</B>, Source : </I><a href="https://code.rdafr.fr/schemas/schema-etat-de-compatibilite-entre-les-standards-bibliographiques/">site RDA-FR</a></p>
 
 ---
