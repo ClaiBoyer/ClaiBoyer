@@ -147,6 +147,15 @@ En France (où dominent les formats Unimarc et Intermarc), la BnF, ayant démarr
 				 
 ## I.3. Vision aérienne 
 ### I.3.1. Quel bilan en 2024 ?
+<ins><B> Rappels des principaux jalons </B></ins>
+	- [X] 1997 : Achèvement des FRBR 
+	- [X] 2010 : Publication du code RDA 
+	- [X] 2010-2014 : Travail d'évaluation du nouveau code mené par le groupe RDA en France 
+	- [X] 2014 : Annonce du programme Transition bibliographique par l'Abes et la BnF
+	- [X] 2015 : Mise en ligne du [site officiel](http://www.transition-bibliographique.fr/) de la transition bibliographique, qui concentre l'ensemble des informations sur le sujet, et première publication d'éléments de la section 1 de RDA-FR 
+[X] 2017 : Publication d'IFLA-LRM et décision d'y aligner RDA-FR ; publication de deux sections majeures du code (l'_Enregistrement des attributs des œuvres et des expressions_ et l'_Enregistrement des relations principales entre l'œuvre, l'expression, la manifestation et l'item_)
+
+
 ### I.3.2. Au-delà de la France, la transition bibliographique dans le monde 
 				 
 # II. Transition bibliographique et science ouverte : des visions sécantes ?
