@@ -178,15 +178,33 @@ En France (où dominent les formats Unimarc et Intermarc), la BnF, ayant démarr
 				 
 # II. Transition bibliographique et science ouverte : des visions sécantes ?
 
-> « Sous l’impulsion du Ministère de l’Enseignement supérieur et de la recherche et du Ministère de la Culture, [le Programme national de la Transition bibliographique] vise à faire évoluer les formats de production et de diffusion des données bibliographiques vers un modèle entités/relations favorisant la découvrabilité des contenus scientifiques et culturels français sur le web, leur bonne réutilisation par les intelligences artificielles et leur contribution à l’économie de la connaissance, au niveau national et européen »
+> « Sous l’impulsion du Ministère de l’Enseignement supérieur et de la recherche et du Ministère de la Culture, [le Programme national de la Transition bibliographique] vise à faire évoluer les formats de production et de diffusion des données bibliographiques vers un modèle entités/relations favorisant la **découvrabilité des contenus scientifiques et culturels français sur le web**, leur bonne réutilisation par les intelligences artificielles et leur **contribution à l’économie de la connaissance**, au niveau national et européen » (site de la [BnF](https://www.bnf.fr/sites/default/files/2023-11/cp_Transition_bibliographique_2023.pdf))
 
-Voici ce qu'on peut lire sur le site de la BnF
+> « La science ouverte est la **diffusion sans entrave des résultats, des méthodes et des produits de la recherche scientifique**. Elle s'appuie sur l'opportunité que représente la mutation numérique pour développer l'accès ouvert aux publications et - autant que possible - aux données, aux codes sources et aux méthodes de la recherche » « Le mouvement de la science ouverte vise à **construire un écosystème** dans lequel la science sera plus cumulative, plus **fortement étayée par des données**, plus transparente, plus rapide et d'accès universel. » (site [Ouvrir la science !](https://www.ouvrirlascience.fr/initiez-vous-a-la-science-ouverte/))
 
-
+Si la transition bibliographique désigne avant tout une mutation technologique et conceptuelle appliquée aux catalogues des bibliothèques tandis que la science ouverte est un mouvement ou un horizon, les deux se recoupent dans une dynamique commune : **faciliter l'accès aux informations**, notamment à caractère scientifique, _via_ une meilleure exploitation des potentiels offerts par le numérique, et par la constitution d'un réseau global interconnecté de circulation et de production de l'information. 
 	 
 ## II.1. La transition bibliographique et les données FAIR 
 ## II.2. La transition bibliographique, accélérateur ou frein à la science ouverte ? 
 
+---
+
+### Bibliographie
+<ins>Thèse</ins>  
+Joffrey DECOURSELLE, _Migration et enrichissement sémantique d'entités culturelles_, Université Claude Bernard Lyon 1, 2018, disponible [ici](https://www.researchgate.net/publication/328955171_Migration_et_enrichissement_semantique_d'entites_culturelles)
+
+<ins>Articles</ins>
+- Véronique HEURTEMATTE, « "La science ouverte est une nouvelle façon de diffuser les savoirs, et les bibliothèques sont au cœur de cette évolution" : entretien avec Madeleine Géroudet, Julien Sempéré et Nelly Sciardis », _Bulletin des bibliothèques de France (BBF)_, 2022, [URL](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750)
+- Reinhold HEUVELMANN, « Bibframe, un nouveau modèle de données pour les bibliothèques », Arabesques [En ligne], n°83, 2016, mis en ligne le 10 janvier 2020, [URL](https://publications-prairial.fr/arabesques/index.php?id=639)
+- Roy TENNANT, « MARC Must Die », _Library Journal - New York_, 127(17), 2002, p. 26-27
+- Seungmin LEE et Elin K. JACOB, « An Integrated Approach to Metadata Interoperability », _Library Resources & Technical Services_, 55(1), 2011, p.17-32
+
+<ins>Sites</ins>
+- Site officiel de la transition bibliographique, [ici]()
+- Site de RDA-FR (version bêta) : [ici]()
+- Site de l'ABES : 
+- Site de la BNF, [ici](https://www.bnf.fr/fr/programme-national-transition-bibliographique)
+- Site officiel "Ouvrir la science", [ici](https://www.ouvrirlascience.fr/initiez-vous-a-la-science-ouverte/)
 
 [^1]: Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_ [En ligne], n°87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
 
