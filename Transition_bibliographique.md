@@ -163,18 +163,17 @@ En France (où dominent les formats Unimarc et Intermarc), la BnF, ayant démarr
 
 ---
 				 
-## I.3. Vision aérienne 
-### I.3.1. Quel bilan en 2024 ?
+## I.3. Quel bilan en 2024 ?
 <ins><B> Rappels des principaux jalons </B></ins>
-- [X] 1997 : Achèvement des FRBR 
-- [X] 2010 : Publication du code RDA 
+- [X] 1998 : Achèvement et publication des FRBR (_Functional Requirements for Bibliographic Records_)
+- [X] 2010 : Publication du code RDA (Ressource : Description et Accès) 
 - [X] 2010-2014 : Travail d'évaluation du nouveau code mené par le groupe RDA en France 
-- [X] 2014 : Annonce du programme Transition bibliographique par l'Abes et la BnF
+- [X] **2014 : Annonce du programme Transition bibliographique par l'Abes et la BnF**
 - [X] 2015 : Mise en ligne du [site officiel](http://www.transition-bibliographique.fr/) de la transition bibliographique, qui concentre l'ensemble des informations sur le sujet, et première publication d'éléments de la section 1 de RDA-FR 
-- [X] 2017 : Publication d'IFLA-LRM et décision d'y aligner RDA-FR ; publication de deux sections majeures du code (l'_Enregistrement des attributs des œuvres et des expressions_ et l'_Enregistrement des relations principales entre l'œuvre, l'expression, la manifestation et l'item_)
+- [X] 2017 : **Publication d'IFLA-LRM** et décision d'y aligner RDA-FR ; publication de deux sections majeures du code (l'_Enregistrement des attributs des œuvres et des expressions_, qui remplace la norme AFNOR datant de 1987, et l'_Enregistrement des relations principales entre l'œuvre, l'expression, la manifestation et l'item_)
+- [X] 2023 : Publication du [site web RDA-FR](https://code.rdafr.fr/5-questions-sur-le-site-rda-fr/) par le groupe de travail Normalisation pour faciliter la consultation du code 
 
-
-### I.3.2. Au-delà de la France, la transition bibliographique dans le monde 
+Depuis les quelques dix ans de mise en œuvre de la transition bibliographique, on compte plusieurs grandes réalisations. Néanmoins, le travail n'est pas terminé. En particulier, la rédaction du code RDA-FR n'est pas encore achevée (manquent notamment les référentiels du "groupe 2" : Agent, Collectivité, Famille…), et un site dédié permet de suivre son avancement progressif : actuellement, une [enquête publique](https://code.rdafr.fr/lenquete-rda-fr-sur-les-concepts-court-jusquau-30-avril-2025/) est ouverte jusqu'en avril 2025 concernant les derniers chapitres mis en forme (le chapitre 12, "Recommandations sur l'enregistrement des concepts", et 33, "Relations impliquant un concept"). D'ici à la fin 2025 ou au début de l'année 2026, en déployant son nouveau catalogue [**NOEMI**](https://www.bnf.fr/fr/actualites-du-catalogue-no-51-mars-2021) (Nouer les Œuvres, Expressions, Manifestations et Items) censé permettre de cataloguer suivant le code RDA-FR grâce au nouveau format Intermarc (dit « **Nouvelle Génération** »), la BnF prévoit [d'achever en interne sa transition bibliographique](https://www.transition-bibliographique.fr/2024-10-01-trajectoire-nationale-pour-limplementation-de-la-transition-bibliographique-quelles-modalites-de-diffusion-et-recuperation-des-donnees/). Le calendrier diffère quelque peu pour l'Abes, qui entre quant à elle dans une [**période de réinformatisation**](https://vimeo.com/954829029), la première étape étant censée s'achever fin 2027.![image](https://github.com/user-attachments/assets/dc6daf57-7c7e-40c1-bea2-96b8330b6824)
 				 
 # II. Transition bibliographique et science ouverte : des visions sécantes ?
 
@@ -182,7 +181,8 @@ En France (où dominent les formats Unimarc et Intermarc), la BnF, ayant démarr
 
 > « La science ouverte est la **diffusion sans entrave des résultats, des méthodes et des produits de la recherche scientifique**. Elle s'appuie sur l'opportunité que représente la mutation numérique pour développer l'accès ouvert aux publications et - autant que possible - aux données, aux codes sources et aux méthodes de la recherche » « Le mouvement de la science ouverte vise à **construire un écosystème** dans lequel la science sera plus cumulative, plus **fortement étayée par des données**, plus transparente, plus rapide et d'accès universel. » (site [Ouvrir la science !](https://www.ouvrirlascience.fr/initiez-vous-a-la-science-ouverte/))
 
-Si la transition bibliographique désigne avant tout une mutation technologique et conceptuelle appliquée aux catalogues des bibliothèques tandis que la science ouverte est un mouvement ou un horizon, les deux se recoupent dans une dynamique commune : **faciliter l'accès aux informations**, notamment à caractère scientifique, _via_ une meilleure exploitation des potentiels offerts par le numérique, et par la constitution d'un réseau global interconnecté de circulation et de production de l'information. 
+Malgré un questionnement en germe depuis 1991 et la création de l'archive ouverte [arXiv](https://arxiv.org/), la science ouverte ne s'impose à l'agenda politique français qu'autour de 2016, avec la promulgation de la [**Loi pour une République numérique**](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033202746), depuis retranscrite dans le Code de la Recherche, et qui autorise les chercheurs dont l'activité est financée au moins pour moitié sur fonds publics à déposer leur article dans une archive ouverte[footnote]. Deux ans plus tard, Frédérique Vidal annonçait le lancement du premier [**Plan national pour la science ouverte**](www.ouvrirlascience.fr), présenté en juillet 2018. Il n'est pas anodin que ce calendrier coïncide avec le lancement du programme Transition bibliographique. En effet, si la transition bibliographique désigne avant tout une mutation technologique et conceptuelle appliquée aux catalogues des bibliothèques tandis que la science ouverte est un mouvement associé à un idéal, les deux se recoupent dans une dynamique commune : **faciliter l'accès aux informations**, notamment à caractère scientifique, _via_ une meilleure exploitation des potentiels offerts par le numérique, et par la constitution d'un réseau global interconnecté de circulation et de production de l'information.![image](https://github.com/user-attachments/assets/bca4c2db-0eb2-46b1-b297-7fe7281b914d)
+
 	 
 ## II.1. La transition bibliographique et les données FAIR 
 
