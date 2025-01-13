@@ -179,13 +179,6 @@ Depuis les quelques dix ans de mise en œuvre de la transition bibliographique, 
 
 # II. Regards croisés : quelles relations entre Transition bibliographique et Science ouverte ?
 
----
-
-<div align="center"><img src="ScienceOuverteUnesco.png" width="700px"/></div>
-<p align="center"><I><B>Piliers de la science ouverte</B>, Source : </I> d'après les <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949_fre">recommandations de l'UNESCO pour une science ouverte</a></p>
-
----
-
 ## II.1. Transition bibliographique et science ouverte, des contextes concomitants 
 
 > « Sous l’impulsion du Ministère de l’Enseignement supérieur et de la recherche et du Ministère de la Culture, [le Programme national de la Transition bibliographique] vise à faire évoluer les formats de production et de diffusion des données bibliographiques vers un modèle entités/relations favorisant la **découvrabilité des contenus scientifiques et culturels français sur le web**, leur bonne réutilisation par les intelligences artificielles et leur **contribution à l’économie de la connaissance**, au niveau national et européen » (site de la [BnF](https://www.bnf.fr/sites/default/files/2023-11/cp_Transition_bibliographique_2023.pdf))
