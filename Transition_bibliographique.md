@@ -179,6 +179,13 @@ Depuis les quelques dix ans de mise en œuvre de la transition bibliographique, 
 
 # II. Regards croisés : quelles relations entre Transition bibliographique et Science ouverte ?
 
+---
+
+<div align="center"><img src="" width="700px"/></div>
+<p align="center"><I><B>Piliers de la science ouverte</B>, Source : </I> d'après les <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949_fre">recommandations de l'UNESCO pour une science ouverte</a></p>
+
+---
+
 ## II.1. Transition bibliographique et science ouverte, des contextes concomitants 
 
 > « Sous l’impulsion du Ministère de l’Enseignement supérieur et de la recherche et du Ministère de la Culture, [le Programme national de la Transition bibliographique] vise à faire évoluer les formats de production et de diffusion des données bibliographiques vers un modèle entités/relations favorisant la **découvrabilité des contenus scientifiques et culturels français sur le web**, leur bonne réutilisation par les intelligences artificielles et leur **contribution à l’économie de la connaissance**, au niveau national et européen » (site de la [BnF](https://www.bnf.fr/sites/default/files/2023-11/cp_Transition_bibliographique_2023.pdf))
@@ -199,6 +206,13 @@ Ainsi, dans le [bilan de 2023 sur les implications pratiques de la transition bi
 
 S'il ne s'agissait pas de son objectif principal, la transition bibliographique fait cependant partie intégrante du processus nécessaire pour une véritable science ouverte, en particulier en sciences humaines et sociales où l'administration de la preuve repose en grande partie sur des renvois précis à des travaux antérieurs ou contemporains. Au cœur de la transition bibliographique, se trouvent donc des enjeux d'**interopérabilité** et d'**accessibilité** des données bibliographiques, problématiques également centrales dans l'établissement des [principes **FAIR**](https://www.ccsd.cnrs.fr/principes-fair/) de la science ouverte. Particulièrement pertinentes concernant les **données de la recherche**, ces recommandations[^27] s'appliquent de manière générale à toute ressource numérique relative à une activité scientifique et disponible en libre accès, et reposent sur l'acronyme suivant  : 
 
+---
+
+<div align="center"><img src="FAIR.png" width="700px"/></div>
+<p align="center"><I><B>Principes FAIR</B>, Source : </I><a href="https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md">GitHub du projet FOSTER (Facilitate open science training for European research)</a></p>
+
+---
+
 ## Conclusion
 
 ---
@@ -206,8 +220,8 @@ S'il ne s'agissait pas de son objectif principal, la transition bibliographique 
 ### Bibliographie
 
 <ins>Thèses et mémoires </ins>  
-- Clémence AGOSTINI, « L'ABES et la BnF en route vers l’_open data_ », Mémoire de fin d'étude du diplôme de conservateur, dirigé par Gildas ILLIEN, Université de Lyon et Ecole Nationale Supérieure des Sciences de l'Information et des Bibliothèques, janvier 2015, p.52
-- Joffrey DECOURSELLE, « Migration et enrichissement sémantique d'entités culturelles », Thèse dirigée par Mohan Saïd HACID et Nicolas LUMINEAU, Lyon, Université Claude Bernard Lyon 1, 2018. Disponible [en ligne](https://www.researchgate.net/publication/328955171_Migration_et_enrichissement_semantique_d'entites_culturelles).
+- Clémence AGOSTINI, « L'ABES et la BnF en route vers l’_open data_ », Mémoire de fin d'étude du diplôme de conservateur, dirigé par Gildas ILLIEN, Université de Lyon et Ecole Nationale Supérieure des Sciences de l'Information et des Bibliothèques, 2015. Consultable [en ligne](https://www.enssib.fr/bibliotheque-numerique/notices/65119-l-abes-et-la-bnf-en-route-vers-l-open-data)
+- Joffrey DECOURSELLE, « Migration et enrichissement sémantique d'entités culturelles », Thèse dirigée par Mohan Saïd HACID et Nicolas LUMINEAU, Lyon, Université Claude Bernard Lyon 1, 2018. Consultable [en ligne](https://www.researchgate.net/publication/328955171_Migration_et_enrichissement_semantique_d'entites_culturelles).
 
 <ins>Ouvrages</ins>
 - Emmanuelle BERMES, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013
