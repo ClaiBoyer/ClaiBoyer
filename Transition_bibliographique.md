@@ -181,7 +181,7 @@ Depuis les quelques dix ans de mise en œuvre de la transition bibliographique, 
 
 ---
 
-<div align="center"><img src="" width="700px"/></div>
+<div align="center"><img src="ScienceOuverteUnesco.png" width="700px"/></div>
 <p align="center"><I><B>Piliers de la science ouverte</B>, Source : </I> d'après les <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949_fre">recommandations de l'UNESCO pour une science ouverte</a></p>
 
 ---
