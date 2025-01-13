@@ -240,23 +240,23 @@ Enfin, il faut également s'adapter aux évolutions européenne et mondiale. En 
 
 <ins>Ouvrages</ins>
 - Emmanuelle BERMES, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013
-- Christian JACOB, _Qu'est-ce qu'un lieu de savoir ?_, Open Edition Press, 2014, disponible [en ligne](https://books.openedition.org/oep/423?format=toc)
+- Christian JACOB, _Qu'est-ce qu'un lieu de savoir ?_, Open Edition Press, Marseille, 2014, disponible [en ligne](https://books.openedition.org/oep/423?format=toc)
 
 <ins>Articles</ins>
-- Christian ALIVERTI, « À la BN suisse, RDA est déjà trilingue », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=393)
-- David AYMONIN, « Vous ne direz plus jamais "lost in translation" », _Arabesques_, n°87, 2017, [URL](https://publications-prairial.fr/arabesques/index.php?id=212)
-- Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
+- Christian ALIVERTI, « À la BN suisse, RDA est déjà trilingue », _Arabesques_ 87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=393)
+- David AYMONIN, « Vous ne direz plus jamais "lost in translation" », _Arabesques_ 87, 2017, [URL](https://publications-prairial.fr/arabesques/index.php?id=212)
+- Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_ 87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
 - Tim BERNERS-LEE, James HENDLER, Ora LASSILA, « The Semantic Web. A New Form of Web Content That Is Meaningful to Computers Will Unleash a Revolution of New Possibilities ». _Scientific American_, 284, 2001, p. 1-5
 - Alain CARACO, _Open Access et bibliothèques_, Études de l'Enssib, 2018, [en ligne](https://www.enssib.fr/bibliotheque-numerique/notices/68589-open-access-et-bibliotheques)
-- René-Vincent DU GRANDLAUNAY, « AlKindi, un catalogue entièrement FRBRisé », _Arabesques_, n°87, 2017, mis en ligne le 16 mars 2023, [URL](https://publications-prairial.fr/arabesques/index.php?id=400)
+- René-Vincent DU GRANDLAUNAY, « AlKindi, un catalogue entièrement FRBRisé », _Arabesques_ 87, 2017, mis en ligne le 16 mars 2023, [URL](https://publications-prairial.fr/arabesques/index.php?id=400)
 - Véronique HEURTEMATTE, « "La science ouverte est une nouvelle façon de diffuser les savoirs, et les bibliothèques sont au cœur de cette évolution" : entretien avec Madeleine Géroudet, Julien Sempéré et Nelly Sciardis », _Bulletin des bibliothèques de France (BBF)_, 2022, [URL](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750)
 - Reinhold HEUVELMANN, « Bibframe, un nouveau modèle de données pour les bibliothèques », _Arabesques_, n°83, 2016, mis en ligne le 10 janvier 2020, [URL](https://publications-prairial.fr/arabesques/index.php?id=639)
-- Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
+- Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ 87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
 - Seungmin LEE et Elin K. JACOB, « An Integrated Approach to Metadata Interoperability », _Library Resources & Technical Services_, 55(1), 2011, p.17-32
 - François MISTRAL, « Des catalogues de bibliothèques aux projets en humanités numériques : les autorités IdRef font le lien  », _Arabesques_, n°105, 2022, [URL](https://doi.org/10.35562/arabesques.2865)
 - François MISTRAL et Yann NICOLAS, « IdRef, les autorités en conquête et en partage », _Arabesques_, n°85, 2017, mis en ligne le 10 janvier 2020, [URL](https://publications-prairial.fr/arabesques/index.php?id=213)
-- Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_, n°87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
-- Philippe LE PAPE, « Une transition chasse l’autre », _Arabesques_, n°87, 2017, mis en ligne le 17 juin 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=218)
+- Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_ 87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
+- Philippe LE PAPE, « Une transition chasse l’autre », _Arabesques_ 87, 2017, mis en ligne le 17 juin 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=218)
 - Fabrice PAPY et Edwige PIEROT, « La "transition bibliographique" en France : à qui profite le changement ? » _Documentation et bibliothèques 64_, 56, 2018.
 - Roy TENNANT, « MARC Must Die », _Library Journal - New York_, 127(17), 2002, p. 26-27
 
@@ -273,13 +273,13 @@ Enfin, il faut également s'adapter aux évolutions européenne et mondiale. En 
 - Portail de l'Université de Rennes consacré à la Science ouverte, [ici](https://scienceouverte.univ-rennes.fr/)
 
 
-[^1]: Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_, n°87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
+[^1]: Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_ 87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
 
-[^2]: David AYMONIN, « Vous ne direz plus jamais "lost in translation" », _Arabesques_, n°87, 2017, [URL](https://publications-prairial.fr/arabesques/index.php?id=212)
+[^2]: David AYMONIN, « Vous ne direz plus jamais "lost in translation" », _Arabesques_ 87, 2017, [URL](https://publications-prairial.fr/arabesques/index.php?id=212)
 
 [^3]: Et pour que les bibliothèques puissent continuer d'assurer leur mission première, à savoir « garantir un libre accès aux savoirs et à l'information, sur place ou à distance », Christian JACOB, _Qu'est-ce qu'un lieu de savoir ?_, Open Edition Press, 2014
 
-[^4]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
+[^4]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ 87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
 
 [^5]: « Le catalogue en tant qu'outil de recherche associé à la réalité physique de la bibliothèque est en effet conçu pour donner une représentation de la collection, pour l'incarner. Il constitue un reflet de la collection physique pour laqulle il joue le rôle d'outil d'accès. » Emmanuelle BERMES, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013, p. 19
 
@@ -289,7 +289,7 @@ Enfin, il faut également s'adapter aux évolutions européenne et mondiale. En 
 
 [^8]: Tim BERNERS-LEE, James HENDLER, Ora LASSILA, « The Semantic Web. A New Form of Web Content That Is Meaningful to Computers Will Unleash a Revolution of New Possibilities ». _Scientific American_, 284, 2001, p. 1-5
 
-[^9]: Philippe LE PAPE, « Une transition chasse l’autre », _Arabesques_, n°87, 2017, mis en ligne le 17 juin 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=218)
+[^9]: Philippe LE PAPE, « Une transition chasse l’autre », _Arabesques_ 87, 2017, mis en ligne le 17 juin 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=218)
 
 [^10]: Fabrice PAPY et Edwige PIEROT, « La "transition bibliographique" en France : à qui profite le changement ? » _Documentation et bibliothèques 64_, 56, 2018.
 
@@ -307,7 +307,7 @@ Enfin, il faut également s'adapter aux évolutions européenne et mondiale. En 
 
 [^17]: Définition de l'interopérabilité technique disponible sur le site [numerique.gouv.fr](https://www.numerique.gouv.fr/actualites/le-referentiel-general-dinteroperabilite-fait-peau-neuve/)
 
-[^18]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_, n°87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
+[^18]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ 87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
 
 [^19]: _Ibid_.
 
@@ -319,7 +319,7 @@ Enfin, il faut également s'adapter aux évolutions européenne et mondiale. En 
 
 [^23]: Joffrey DECOURSELLE, « Migration et enrichissement sémantique d'entités culturelles », Thèse dirigée par Mohan Saïd HACID et Nicolas LUMINEAU, Lyon, Université Claude Bernard Lyon 1, 2018, p. 16. Disponible [en ligne](https://www.researchgate.net/publication/328955171_Migration_et_enrichissement_semantique_d'entites_culturelles).
 
-[^24]: Voir notamment Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
+[^24]: Voir notamment Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_ 87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
 
 [^25]: « Art. L. 533-4. – I. – Lorsqu’un écrit scientifique issu d’une activité de recherche financée au moins pour moitié par des dotations de l’État, des collectivités territoriales ou des établissements publics, par des subventions d’agences de financement nationales ou par des fonds de l’Union européenne est publié dans un périodique paraissant au moins une fois par an, son auteur dispose, même après avoir accordé des droits exclusifs à un éditeur, du droit de mettre à disposition gratuitement dans un format ouvert, par voie numérique, sous réserve de l’accord des éventuels coauteurs, la version finale de son manuscrit acceptée pour publication, dès lors que l’éditeur met lui-même celle-ci gratuitement à disposition par voie numérique ou, à défaut, à l’expiration d’un délai courant à compter de la date de la première publication. Ce délai est au maximum de six mois pour une publication dans le domaine des sciences, de la technique et de la médecine et de douze mois dans celui des sciences humaines et sociales. » Extrait repris du [billet « Que dit la loi ? »](https://scienceouverte.univ-rennes.fr/que-dit-la-loi) de l'Université de Rennes.
 
@@ -339,9 +339,9 @@ Enfin, il faut également s'adapter aux évolutions européenne et mondiale. En 
 
 [^33]: Alain CARACO, _Open Access et bibliothèques_, Études de l'Enssib, 2018, [en ligne](https://www.enssib.fr/bibliotheque-numerique/notices/68589-open-access-et-bibliotheques)
 
-[^34]: Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_, n°87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
+[^34]: Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_ 87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
 
-[^35]: Christian ALIVERTI, « À la BN suisse, RDA est déjà trilingue », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=393)
+[^35]: Christian ALIVERTI, « À la BN suisse, RDA est déjà trilingue », _Arabesques_ 87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=393)
 
-[^36]: René-Vincent DU GRANDLAUNAY, « AlKindi, un catalogue entièrement FRBRisé », _Arabesques_, n°87, 2017, mis en ligne le 16 mars 2023, [URL](https://publications-prairial.fr/arabesques/index.php?id=400)
+[^36]: René-Vincent DU GRANDLAUNAY, « AlKindi, un catalogue entièrement FRBRisé », _Arabesques_ 87, 2017, mis en ligne le 16 mars 2023, [URL](https://publications-prairial.fr/arabesques/index.php?id=400)
 
