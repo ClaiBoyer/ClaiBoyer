@@ -201,7 +201,7 @@ S'il ne s'agissait pas de son objectif principal, la transition bibliographique 
 - Joffrey DECOURSELLE, « Migration et enrichissement sémantique d'entités culturelles », Thèse dirigée par Mohan Saïd HACID et Nicolas LUMINEAU, Lyon, Université Claude Bernard Lyon 1, 2018. Disponible [en ligne](https://www.researchgate.net/publication/328955171_Migration_et_enrichissement_semantique_d'entites_culturelles).
 
 <ins>Ouvrages</ins>
-- Emmanuel BERMER, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013, p. 19
+- Emmanuelle BERMES, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013, p. 19
 
 <ins>Articles</ins>
 - Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_ [En ligne], n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
@@ -228,7 +228,7 @@ S'il ne s'agissait pas de son objectif principal, la transition bibliographique 
 
 [^4]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ [En ligne], n°87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
 
-[^5]: « Le catalogue en tant qu'outil de recherche associé à la réalité physique de la bibliothèque est en effet conçu pour donner une représentation de la collection, pour l'incarner. Il constitue un reflet de la collection physique pour laqulle il joue le rôle d'outil d'accès. » Emmanuel BERMER, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013, p. 19
+[^5]: « Le catalogue en tant qu'outil de recherche associé à la réalité physique de la bibliothèque est en effet conçu pour donner une représentation de la collection, pour l'incarner. Il constitue un reflet de la collection physique pour laqulle il joue le rôle d'outil d'accès. » Emmanuelle BERMES, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013, p. 19
 
 [^6]: « (...) l'ajout de métadonnées, est alors devenue incontournable afin "d'optimiser l'usage du document en permettant un meilleur accès à son contenu et une meilleure mise en contexte". Les métadonnées représentent donc toutes les informations qui permettent de décrire les caractéristiques d'autres données, quel qu'en soit le support. Ce sont des **données sur les données**. (...) Dans le monde des archives et des bibliothèques, elles représentent "toutes les informations applicables à un document [et] réunies dans un document secondaire". Elles sont donc à la base de l'archivage et du traitement bibliographique. Transposées dans le monde numérique, ces métadonnées contnuent d'exister de manière dématérialisée et augmentée, permettant une **description structurée et standardisée** des ressources. » Chloé FERRY, « Principes du FAIR et archives sonores : la valorisation des contenus en environnement numérique », _Carnets du master Métiers des archives et des bibliothèques : médiation de l'histoire et humanités numériques_, 22 janvier 2019, [URL](https://masterabd.hypotheses.org/5578#identifier_2_5578)
 
