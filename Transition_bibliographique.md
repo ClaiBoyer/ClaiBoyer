@@ -181,14 +181,20 @@ Depuis les quelques dix ans de mise en œuvre de la transition bibliographique, 
 
 > « La science ouverte est la **diffusion sans entrave des résultats, des méthodes et des produits de la recherche scientifique**. Elle s'appuie sur l'opportunité que représente la mutation numérique pour développer l'accès ouvert aux publications et - autant que possible - aux données, aux codes sources et aux méthodes de la recherche » « Le mouvement de la science ouverte vise à **construire un écosystème** dans lequel la science sera plus cumulative, plus **fortement étayée par des données**, plus transparente, plus rapide et d'accès universel. » (site [Ouvrir la science !](https://www.ouvrirlascience.fr/initiez-vous-a-la-science-ouverte/))
 
-Malgré un questionnement en germe depuis 1991 et la création de l'archive ouverte [arXiv](https://arxiv.org/), la science ouverte ne s'impose à l'agenda politique français qu'autour de 2016, avec la promulgation de la [**Loi pour une République numérique**](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033202746), depuis retranscrite dans le Code de la Recherche, et qui autorise les chercheurs dont l'activité est financée au moins pour moitié sur fonds publics à déposer leur article dans une archive ouverte[footnote]. Deux ans plus tard, Frédérique Vidal annonçait le lancement du premier [**Plan national pour la science ouverte**](www.ouvrirlascience.fr), présenté en juillet 2018. Il n'est pas anodin que ce calendrier coïncide avec le lancement du programme Transition bibliographique. En effet, si la transition bibliographique désigne avant tout une mutation technologique et conceptuelle appliquée aux catalogues des bibliothèques tandis que la science ouverte est un mouvement associé à un idéal, les deux se recoupent dans une dynamique commune : **faciliter l'accès aux informations**, notamment à caractère scientifique, _via_ une meilleure exploitation des potentiels offerts par le numérique, et par la constitution d'un réseau global interconnecté de circulation et de production de l'information.
+Malgré un questionnement en germe depuis 1991 et la création de l'archive ouverte [arXiv](https://arxiv.org/), la science ouverte ne s'impose véritablement à l'agenda politique français qu'à partir de 2016, avec la promulgation de la [**Loi pour une République numérique**](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033202746), depuis retranscrite dans le Code de la Recherche, et qui autorise les chercheurs dont l'activité est financée au moins pour moitié sur fonds publics à déposer leur article dans une archive ouverte[^25]. Deux ans plus tard, la Ministre de l'Enseignement Supérieur, de la Recherche et de l'Innovation Frédérique Vidal annonçait le lancement du premier [**Plan national pour la science ouverte**](www.ouvrirlascience.fr), présenté en juillet 2018. Il n'est pas anodin que ce calendrier coïncide avec le lancement du programme Transition bibliographique. En effet, si la transition bibliographique désigne avant tout une mutation technologique et conceptuelle appliquée aux catalogues des bibliothèques tandis que la science ouverte est un mouvement associé à un idéal, les deux se recoupent dans une dynamique commune : **faciliter l'accès aux informations**, notamment à caractère scientifique, _via_ une meilleure exploitation des potentiels offerts par le numérique, et par la constitution d'un réseau global interconnecté de circulation et de production de l'information.
+
+## II.1. La transition bibliographique, accélérateur ou frein à la science ouverte ? 
+
+Paradoxalement, une certaine ambiguïté caractérise les discours sur les rapports entre transition bibliographique et science ouverte. 
+Ainsi, dans le [bilan de 2023 sur les implications pratiques de la transition bibliographique pour les bibliothèques d'ESR](https://abes.fr/wp-content/uploads/2023/08/Les-implications-pratiques-de-la-Transition-bibliographique-pour-les-bibliotheques-dESR-1.pdf) (Enseignement Supérieur et de Recherche), la transition bibliographique est perçue comme un frein potentiel à la science ouverte : « L'ensemble du processus de transition nécessitera une attention de la part de la direction de la bibliothèque qui pourrait potentiellement se faire **au détriment d'autres développements stratégiques importants, tels que la transition vers la science ouverte** » (p. 52). Il est vrai que la transition bibliographique et les projets pour favoriser la science ouverte peuvent apparaître comme deux chantiers menés simultanément au sein des bibliothèques et des centres documentaires, et donc d'une certaine manière, **concurrents**, bien qu'ils puissent tendre vers le même horizon. Une tension d'autant plus perceptible que les bibliothécaires, bien que prédestinées par leurs compétences en matière de gestion de l'information à [jouer un rôle dans la science ouverte](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750), ont peiné à s'imposer comme des acteurs légitimes du mouvement, ainsi que le rappelle Yves Alix, directeur de département à la BnF et ancien directeur de l'ENSSIB[^26] : 
+
+> «  Pour les bibliothèques, les premières à avoir été touchées de plein fouet par l'augmentation exponentielle des tarifs d'accès aux publications scientifiques en ligne, les premières à avoir réagi collectivement, avec la mise en place de consortiums, la prise de conscience a certes permis de lancer des actions destinées à enrayer le manège infernal des abonnements prohibitifs et des stratégies de fermeture des éditeurs spécialisés mais, **trop souvent ignorées ou marginalisées par les milieux de la recherche, les services documentaires ont dû batailler ferme pour s'imposer dans le débat et se faire reconnaître comme des acteurs légitimes du combat pour la science ouverte**. Et cette reconnaissance reste fragile, dans un écosystème bouleversé où la documentation et l'information scientifique et technique, carburants quotidiens de la recherche, semblent, à l'heure d'Internet et du numérique "total", échapper aux bibliothèques et aux bibliothécaires. »
+
 
 	 
-## II.1. La transition bibliographique et les données FAIR 
+## II.2. La transition bibliographique et les données FAIR 
 
-S'il ne s'agissait pas de son objectif principal, la transition bibliographique fait cependant partie intégrante du processus nécessaire pour une véritable science ouverte, en particulier en sciences humaines et sociales où l'administration de la preuve repose en grande partie sur des renvois précis à des travaux antérieurs ou contemporains. Au cœur de la transition bibliographique, se trouvent donc des enjeux d'**interopérabilité** et d'**accessibilité** des données bibliographiques, problématiques également centrales dans l'établissement des [principes **FAIR**](https://www.ccsd.cnrs.fr/principes-fair/) de la science ouverte. Particulièrement pertinentes concernant les **données de la recherche**, ces recommandations[^25] s'appliquent de manière générale à toute ressource numérique relative à une activité scientifique et disponible en libre accès, et reposent sur l'acronyme suivant  : 
-
-## II.2. La transition bibliographique, accélérateur ou frein à la science ouverte ? 
+S'il ne s'agissait pas de son objectif principal, la transition bibliographique fait cependant partie intégrante du processus nécessaire pour une véritable science ouverte, en particulier en sciences humaines et sociales où l'administration de la preuve repose en grande partie sur des renvois précis à des travaux antérieurs ou contemporains. Au cœur de la transition bibliographique, se trouvent donc des enjeux d'**interopérabilité** et d'**accessibilité** des données bibliographiques, problématiques également centrales dans l'établissement des [principes **FAIR**](https://www.ccsd.cnrs.fr/principes-fair/) de la science ouverte. Particulièrement pertinentes concernant les **données de la recherche**, ces recommandations[^27] s'appliquent de manière générale à toute ressource numérique relative à une activité scientifique et disponible en libre accès, et reposent sur l'acronyme suivant  : 
 
 ## Conclusion
 
@@ -201,32 +207,44 @@ S'il ne s'agissait pas de son objectif principal, la transition bibliographique 
 - Joffrey DECOURSELLE, « Migration et enrichissement sémantique d'entités culturelles », Thèse dirigée par Mohan Saïd HACID et Nicolas LUMINEAU, Lyon, Université Claude Bernard Lyon 1, 2018. Disponible [en ligne](https://www.researchgate.net/publication/328955171_Migration_et_enrichissement_semantique_d'entites_culturelles).
 
 <ins>Ouvrages</ins>
-- Emmanuelle BERMES, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013, p. 19
+- Emmanuelle BERMES, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013
+- Christian JACOB, _Qu'est-ce qu'un lieu de savoir ?_, Open Edition Press, 2014, disponible [en ligne](https://books.openedition.org/oep/423?format=toc)
 
 <ins>Articles</ins>
-- Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_ [En ligne], n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
+- David AYMONIN, « Vous ne direz plus jamais "lost in translation" », _Arabesques_, n°87, 2017, [URL](https://publications-prairial.fr/arabesques/index.php?id=212)
+- Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
+- Tim BERNERS-LEE, James HENDLER, Ora LASSILA, « The Semantic Web. A New Form of Web Content That Is Meaningful to Computers Will Unleash a Revolution of New Possibilities ». _Scientific American_, 284, 2001, p. 1-5
+- Alain CARACO, _Open Access et bibliothèques_, Études de l'Enssib, 2018, [en ligne](https://www.enssib.fr/bibliotheque-numerique/notices/68589-open-access-et-bibliotheques)
+- Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
 - Véronique HEURTEMATTE, « "La science ouverte est une nouvelle façon de diffuser les savoirs, et les bibliothèques sont au cœur de cette évolution" : entretien avec Madeleine Géroudet, Julien Sempéré et Nelly Sciardis », _Bulletin des bibliothèques de France (BBF)_, 2022, [URL](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750)
-- Reinhold HEUVELMANN, « Bibframe, un nouveau modèle de données pour les bibliothèques », Arabesques [En ligne], n°83, 2016, mis en ligne le 10 janvier 2020, [URL](https://publications-prairial.fr/arabesques/index.php?id=639)
-- - Seungmin LEE et Elin K. JACOB, « An Integrated Approach to Metadata Interoperability », _Library Resources & Technical Services_, 55(1), 2011, p.17-32
+- Reinhold HEUVELMANN, « Bibframe, un nouveau modèle de données pour les bibliothèques », _Arabesques_, n°83, 2016, mis en ligne le 10 janvier 2020, [URL](https://publications-prairial.fr/arabesques/index.php?id=639)
+- Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
+- Seungmin LEE et Elin K. JACOB, « An Integrated Approach to Metadata Interoperability », _Library Resources & Technical Services_, 55(1), 2011, p.17-32
+- Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_, n°87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
+- Philippe LE PAPE, « Une transition chasse l’autre », _Arabesques_, n°87, 2017, mis en ligne le 17 juin 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=218)
 - Fabrice PAPY et Edwige PIEROT, « La "transition bibliographique" en France : à qui profite le changement ? » _Documentation et bibliothèques 64_, 56, 2018.
 - Roy TENNANT, « MARC Must Die », _Library Journal - New York_, 127(17), 2002, p. 26-27
 
-<ins>Blogs et Sites</ins>
-- Chloé FERRY, « Principes du FAIR et archives sonores : la valorisation des contenus en environnement numérique », _Carnets du master Métiers des archives et des bibliothèques : médiation de l'histoire et humanités numériques_, 22 janvier 2019, [URL](https://masterabd.hypotheses.org/5578#identifier_2_5578)
-- Chiara MORETTI, « Principes FAIR et défis pour leur application dans le domaine des arts et humanités », _Carnets du master Métiers des archives et des bibliothèques : médiation de l'histoire et humanités numériques_, 04 janvier 2023, [URL](https://masterabd.hypotheses.org/9842)
-- Site officiel de la transition bibliographique, [ici]()
-- Site de RDA-FR (version bêta) : [ici]()
-- Site de l'ABES : 
+<ins>Ressources en ligne (blogs et sites)</ins>
+- Chloé FERRY, « Principes du FAIR et archives sonores : la valorisation des contenus en environnement numérique », _Carnets du master Métiers des archives et des bibliothèques : médiation de l'histoire et humanités numériques_, mis en ligne le 22 janvier 2019, [URL](https://masterabd.hypotheses.org/5578#identifier_2_5578)
+- Chiara MORETTI, « Principes FAIR et défis pour leur application dans le domaine des arts et humanités », _Carnets du master Métiers des archives et des bibliothèques : médiation de l'histoire et humanités numériques_, mis en ligne le 04 janvier 2023, [URL](https://masterabd.hypotheses.org/9842)
+- Site officiel de la transition bibliographique, [ici](https://www.transition-bibliographique.fr/)
+- Site de RDA-FR, [ici](https://code.rdafr.fr/)
+- Site de l'ABES, [ici](https://abes.fr/normalisation-modeles-et-formats/transition-bibliographique/)
 - Site de la BNF, [ici](https://www.bnf.fr/fr/programme-national-transition-bibliographique)
 - Site officiel "Ouvrir la science", [ici](https://www.ouvrirlascience.fr/initiez-vous-a-la-science-ouverte/)
+- Site du Centre pour la Communication Scientifique Directe, [ici](https://www.ccsd.cnrs.fr/)
+- Site de l'ENSSIB, [ici](https://www.enssib.fr/services-et-ressources/questions-reponses/transition-bibliographique)
+- Portail de l'Université de Rennes consacré à la Science ouverte, [ici](https://scienceouverte.univ-rennes.fr/)
 
-[^1]: Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_ [En ligne], n°87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
 
-[^2]: David AYMONIN, « Vous ne direz plus jamais "lost in translation" », _Arabesques_ [En ligne], n°87, [URL](https://publications-prairial.fr/arabesques/index.php?id=212)
+[^1]: Grégory MIURA, « Dernier appel pour les bibliothécaires en transit ! », _Arabesques_, n°87, 2017, mis en ligne le 01 janvier 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=264)
+
+[^2]: David AYMONIN, « Vous ne direz plus jamais "lost in translation" », _Arabesques_, n°87, 2017, [URL](https://publications-prairial.fr/arabesques/index.php?id=212)
 
 [^3]: Et pour que les bibliothèques puissent continuer d'assurer leur mission première, à savoir « garantir un libre accès aux savoirs et à l'information, sur place ou à distance », Christian JACOB, _Qu'est-ce qu'un lieu de savoir ?_, Open Edition Press, 2014
 
-[^4]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ [En ligne], n°87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
+[^4]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
 
 [^5]: « Le catalogue en tant qu'outil de recherche associé à la réalité physique de la bibliothèque est en effet conçu pour donner une représentation de la collection, pour l'incarner. Il constitue un reflet de la collection physique pour laqulle il joue le rôle d'outil d'accès. » Emmanuelle BERMES, _Le Web sémantique en bibliothèque_, Electre-Editions du Cercle de la Librairie, Paris, 2013, p. 19
 
@@ -236,7 +254,7 @@ S'il ne s'agissait pas de son objectif principal, la transition bibliographique 
 
 [^8]: Tim BERNERS-LEE, James HENDLER, Ora LASSILA, « The Semantic Web. A New Form of Web Content That Is Meaningful to Computers Will Unleash a Revolution of New Possibilities ». _Scientific American_, 284, 2001, p. 1-5
 
-[^9]: Philippe LE PAPE, « Une transition chasse l’autre », _Arabesques_ [En ligne], n°87, 2017, mis en ligne le 17 juin 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=218)
+[^9]: Philippe LE PAPE, « Une transition chasse l’autre », _Arabesques_, n°87, 2017, mis en ligne le 17 juin 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=218)
 
 [^10]: Fabrice PAPY et Edwige PIEROT, « La "transition bibliographique" en France : à qui profite le changement ? » _Documentation et bibliothèques 64_, 56, 2018.
 
@@ -248,13 +266,13 @@ S'il ne s'agissait pas de son objectif principal, la transition bibliographique 
 
 [^14]: Voir notamment la page dédiée aux modèles FRBR, FRAD et FRSAD sur le site de la BnF, [ici](https://www.bnf.fr/fr/modeles-frbr-frad-et-frsad)
 
-[^15]: En informatique, une ontologie désigne un ensemble structuré de concepts permettant de donner un sens aux informations (Dictionnaire Le Robert, [en ligne](https://dictionnaire.lerobert.com/definition/ontologie)
+[^15]: En informatique, une ontologie désigne un ensemble structuré de concepts permettant de donner un sens aux informations (Dictionnaire Le Robert, [en ligne](https://dictionnaire.lerobert.com/definition/ontologie))
 
 [^16]: Gabriel RAUPP, [Fiche pratique de l'Enssib](https://www.enssib.fr/bibliotheque-numerique/documents/67445-comprendre-les-enjeux-de-la-transition-bibliographique.pdf), 2016
 
 [^17]: Définition de l'interopérabilité technique disponible sur le site [numerique.gouv.fr](https://www.numerique.gouv.fr/actualites/le-referentiel-general-dinteroperabilite-fait-peau-neuve/)
 
-[^18]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_ [En ligne], n°87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
+[^18]: Frédérique JOANNIC-SETA et David AYMONIN, « Stratégie et prospective : le mot des pilotes », _Arabesques_, n°87,2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=286)
 
 [^19]: _Ibid_.
 
@@ -266,6 +284,10 @@ S'il ne s'agissait pas de son objectif principal, la transition bibliographique 
 
 [^23]: Joffrey DECOURSELLE, « Migration et enrichissement sémantique d'entités culturelles », Thèse dirigée par Mohan Saïd HACID et Nicolas LUMINEAU, Lyon, Université Claude Bernard Lyon 1, 2018, p. 16. Disponible [en ligne](https://www.researchgate.net/publication/328955171_Migration_et_enrichissement_semantique_d'entites_culturelles).
 
-[^24]: Voir notamment Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_ [En ligne], n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
+[^24]: Voir notamment Emmanuelle BERMES, « À quoi ressembleront les métadonnées de l’avenir ? », _Arabesques_, n°87, 2017, mis en ligne le 01 décembre 2019, [URL](https://publications-prairial.fr/arabesques/index.php?id=294)
 
-[^25]: « Les principes FAIR sont le fruit d'une réflexion qui s'est développée en 2014 à Liden (Pays-Bas) dans le cadre d'un workshop qui a pour résultat la publication du [Data FAIRport open initiative](https://www.datafairport.org/). En 2016, la revue scientifique _Scientific Data_ est parvenue à la formulation qui réunit les 4 lettres : **F**indable, **A**ccessible, **I**nteroperable, **R**eusable pour une production une gestion efficace et une réutilisation des données de recherche », Chiara MORETTI, « Principes FAIR et défis pour leur application dans le domaine des arts et humanités », _Carnets du master Métiers des archives et des bibliothèques : médiation de l'histoire et humanités numériques_, 04 janvier 2023, [URL](https://masterabd.hypotheses.org/9842)
+[^25]: « Art. L. 533-4. – I. – Lorsqu’un écrit scientifique issu d’une activité de recherche financée au moins pour moitié par des dotations de l’État, des collectivités territoriales ou des établissements publics, par des subventions d’agences de financement nationales ou par des fonds de l’Union européenne est publié dans un périodique paraissant au moins une fois par an, son auteur dispose, même après avoir accordé des droits exclusifs à un éditeur, du droit de mettre à disposition gratuitement dans un format ouvert, par voie numérique, sous réserve de l’accord des éventuels coauteurs, la version finale de son manuscrit acceptée pour publication, dès lors que l’éditeur met lui-même celle-ci gratuitement à disposition par voie numérique ou, à défaut, à l’expiration d’un délai courant à compter de la date de la première publication. Ce délai est au maximum de six mois pour une publication dans le domaine des sciences, de la technique et de la médecine et de douze mois dans celui des sciences humaines et sociales. » Extrait repris du [billet « Que dit la loi ? »](https://scienceouverte.univ-rennes.fr/que-dit-la-loi) de l'Université de Rennes.
+
+[^26]: Extrait de la préface rédigée par Yves ALIX de l'étude menée à l'ENSSIB par Alain CARACO, _Open Access et bibliothèques_, 2018, disponible [ici](https://www.enssib.fr/bibliotheque-numerique/notices/68589-open-access-et-bibliotheques)
+
+[^27]: « Les principes FAIR sont le fruit d'une réflexion qui s'est développée en 2014 à Liden (Pays-Bas) dans le cadre d'un workshop qui a pour résultat la publication du [Data FAIRport open initiative](https://www.datafairport.org/). En 2016, la revue scientifique _Scientific Data_ est parvenue à la formulation qui réunit les 4 lettres : **F**indable, **A**ccessible, **I**nteroperable, **R**eusable pour une production une gestion efficace et une réutilisation des données de recherche », Chiara MORETTI, « Principes FAIR et défis pour leur application dans le domaine des arts et humanités », _Carnets du master Métiers des archives et des bibliothèques : médiation de l'histoire et humanités numériques_, 04 janvier 2023, [URL](https://masterabd.hypotheses.org/9842)
