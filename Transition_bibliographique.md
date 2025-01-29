@@ -6,7 +6,7 @@
 <br>
 <p align="center"><I>
 Source : Carte des bases de données du projet Linked Open Data, disponible sur le 
-<a href="https://www.flickr.com/photos/itupictures/16662336315">Portail Web Sémantique de Wikipédia</a> 
+<a href="https://fr.wikipedia.org/wiki/Portail:Web_s%C3%A9mantique#/media/Fichier:LOD_Cloud_Diagram_as_of_September_2011.png">Portail Web Sémantique de Wikipédia</a> 
 et vue d'un meuble à fiches par 
 <a href="https://unsplash.com/fr/photos/un-gros-plan-dun-ordinateur-ST4jAHVCEZQ">D. Forsman sur Unsplash</a>
 </I></p>
